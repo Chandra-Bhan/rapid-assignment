@@ -1,0 +1,39 @@
+.header_option_main_div{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 100;
+    background-color: #F9F9F9;
+    width: 100%;
+    /* left: 20rem; */
+    top:5rem
+    
+}
+.header_opt_ul{
+display: flex;
+flex-direction: column;
+}
+
+.header_opt_ul .header_opt_li:hover{
+    background-color: #ededed;
+    
+}
+.header_opt_ul .header_opt_li{
+    background-color: #F9F9F9;
+    padding: .5rem;
+    
+}
+
+.header_opt_ul .header_opt_li a{
+    color:#666666;
+    opacity: 70%;
+}
+.header_opt_heading{
+    font-weight: bold;
+}
+
+@media screen and (max-width: 822px) {
+    .header_option_main_div_nested{
+        display: none;
+    }
+}
