@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Project deployment link -  [Rapid_assignment_deployment_link](https://rapid-assignment-ui.onrender.com/).
 
 ## Available Scripts
 
