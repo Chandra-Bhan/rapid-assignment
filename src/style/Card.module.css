@@ -1,0 +1,35 @@
+.card_img{
+    max-width: 17rem;
+}
+.card{
+    max-width: 17rem;
+    text-align: center;
+    padding: 2rem;
+    background-color: #F9F9F9;
+    margin-top: 1rem;
+}
+.section2_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border:2px solid #003057;
+    color: #003057;
+    padding: 7px 0rem;
+    margin-left: 10px;
+    font-weight: bold;
+    max-width: 10rem;
+    margin: auto;
+}
+.section2_div:hover{
+    background-color: #003057;
+    color: white;;
+}
+.section2_img{
+    margin-top: 3px;
+    margin-right: 4px;
+   
+}
+.card:hover{
+    background-color: #F1F1F1;
+}

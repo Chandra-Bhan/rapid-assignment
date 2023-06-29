@@ -1,0 +1,37 @@
+.card_sec_container_div{
+    border: 1px solid;
+    max-width: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    height: 15rem;
+    background-image: url("https://cdn.wallpapersafari.com/29/50/VI1vDX.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+.card_sec_line{
+    display: block;
+    width: 2rem;
+    height: .3rem;
+    background-color: white;
+    float: left;
+    text-align: start;
+    border: none;
+    margin-left: 0rem;
+}
+.card_sec_heading_con{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    width: 40%;
+}
+.card_sec_shopping_links{
+    border: 3px solid;
+    padding: .5rem 1rem;
+    background-color: transparent;
+}
+.card_sec_heading_con h3{
+    font-size:2rem;
+}
