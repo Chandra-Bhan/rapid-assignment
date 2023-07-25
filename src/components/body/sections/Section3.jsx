@@ -8,7 +8,8 @@ function Section3() {
       <div className={style.section3_div1}>
         <img
           className={style.section3_div1_image}
-          src="https://wallpapercrafter.com/desktop2/805731-Argentina-Bariloche-clouds-forest-Hill-house.jpg"
+          src="https://good-wallpapers.com/wallpapers/27320/mountains_%20hill_%20and%20a%20river%20_reflectance_%20_good-wallpapers.com_.jpg"
+          // src="https://wallpapercrafter.com/desktop2/805731-Argentina-Bariloche-clouds-forest-Hill-house.jpg"
         />
         <div className={style.section3_left_img_link}>
           <div className={style.section3_div}>

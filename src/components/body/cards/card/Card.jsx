@@ -7,7 +7,8 @@ function Card() {
     <div className={style.card}>
       <img
         className={style.card_img}
-        src="https://wallpapercrafter.com/desktop2/805731-Argentina-Bariloche-clouds-forest-Hill-house.jpg"
+        // src="https://wallpapercrafter.com/desktop2/805731-Argentina-Bariloche-clouds-forest-Hill-house.jpg"
+        src="https://good-wallpapers.com/wallpapers/27320/mountains_%20hill_%20and%20a%20river%20_reflectance_%20_good-wallpapers.com_.jpg"
       />
       <p>Adipisicing unde vel so dolore, consequatur.</p>
       <div className={style.section2_div}>
